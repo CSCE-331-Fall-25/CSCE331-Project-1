@@ -36,10 +36,56 @@ a
     right: 10px;
 }
 
+.contact
+{
+    position: absolute;
+    top: 625px;
+    right: 1220px;
+}
+
+.professionalPicture
+{
+    position: absolute;
+    top: 540px;
+    right: 400px;
+}
+.am
+{
+    position: absolute;
+    top: 540px;
+    right: 720px;
+}
+
+.microprocessor
+{
+    position: absolute;
+    top: 580px;
+    right: 420px;
+}
+.cc
+{
+    position: absolute;
+    top: 580px;
+    right: 820px;
+}
+
+.cyber
+{
+    position: absolute;
+    top: 530px;
+    right: 340px;
+}
+.bigThree
+{
+    position: absolute;
+    top: 530px;
+    right: 660px;
+}
+
 .links
 {
     background-color: #500000;
-    padding: 20px;
+    padding: 15px;
     border-radius: 15px;
     display: inline-block;
     color: #ffffff
@@ -71,7 +117,4 @@ a
 {
     width: 1100px;
 }
-#red
-{
-    color:#500000;
-}
+
